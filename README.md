@@ -1,4 +1,4 @@
-### **Documento de Requisitos y Organización del Desarrollo del Proyecto {}**  
+### **Documento de Requisitos y Organización del Desarrollo del Proyecto Financore**  
 #### **Aplicación de Control de Presupuesto Inteligente**  
 
 ---
