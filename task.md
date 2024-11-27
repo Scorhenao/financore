@@ -26,11 +26,11 @@ Agregar notificaciones push y alertas para informar a los usuarios sobre presupu
 ### **FT01: Creación de Presupuestos**  
 - Crear presupuestos generales y por categoría.  
 - Asignar fechas de inicio y finalización personalizables.  
-- Ajustar presupuestos automáticamente con base en las transacciones registradas.  
+- Ajustar presupuestos segun criterio del usuario con base en las transacciones registradas.  
 
 ### **FT02: Registro de Transacciones**  
 - Registro de ingresos y gastos con fecha, monto y categoría.  
-- Ajustes dinámicos de presupuestos y actualización de gráficos en tiempo real.  
+- Ajustes dinámicos de presupuestos y actualización de gráficos.  
 
 ### **FT03: Gráficos Interactivos**  
 - Mostrar gráficos generales (global) y específicos (por categoría).  
